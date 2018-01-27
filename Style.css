@@ -64,11 +64,10 @@ color:#ff0000;
     border: 1px solid #dddddd;		
     text-align: left;		
     padding: 8px;		
- }		
-			
-div { font-family:bubble;
-	
-}
+
+	 div {
+	font-family: bubble;
+   	 margin:20px; 
 
 }
 
