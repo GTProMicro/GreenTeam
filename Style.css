@@ -16,7 +16,11 @@ float: left;
 
 } div {
 	font-family: bubble;
-   	 margin:20px; }
+   	 margin:20px; 
+	color:#140223;
+	font-size: 50px;
+
+}
 .space {
 	margin:30px;
 	font-size:50px;
