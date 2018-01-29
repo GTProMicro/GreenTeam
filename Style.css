@@ -2,72 +2,25 @@ img {  height: 158px;
 width:175px;
 float: left;
 }
-}
- @font-face {
-    font-family: bubble;
-    src: url(AzzurBubblegum.ttf);
-}
-h2 {
-	font-family: bubble; 
-	
-}
-body  {
-    background-image: url("spots_background_light_blur_68629_1920x1080.jpg");
-  background-color:#ff6666;
-  text-align: center;
-} 
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
+@font-face { ont-family: bubble;   src: url(AzzurBubblegum.ttf); }
+ 
+h2 { font-family: bubble; }
 
-li {
-    float: left;
-}
+body  { background-image: url("spots_background_light_blur_68629_1920x1080.jpg"); background-color:#ff6666; text-align: center; }
 
-li a {
-    display: block;
-    color:#ff6666 ;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
+ul { list-style-type: none; margin: 0; padding: 0;  overflow: hidden; background-color: #333; }
 
-li a:hover {
-    background-color: pink;
-}
+li { float: left; }
 
+li a { display: block; color:#ff6666; text-align: center; padding: 14px 16px; text-decoration: none; }
 
+li a:hover {  background-color: pink; }
 
-
-.heading {  margin:left;
+.heading {  margin:left; }
   
-  
-  }
-.list2 {
-color:#ff0000;
- }
+.list2 { color:#ff0000; }
 
- table {		
-     font-family: arial, sans-serif;		
-     border-collapse: collapse;		
-     width: 100%;		
- }		
- 		
- td, th {		
-    border: 1px solid #dddddd;		
-    text-align: left;		
-    padding: 8px;		
-
-	 
-
-p {
-	font-family: bubble; 
-	color:#140223;
-	font-size: 82px;
-}
-
+table {	font-family: arial, sans-serif;	border-collapse: collapse; width: 100%;	}
+     		
+td, th { border: 1px solid #dddddd; text-align: left; padding: 8px; }
