@@ -6,10 +6,9 @@ float: left;
  @font-face {
     font-family: bubble;
     src: url(bubble.ttf);
-
-} div {
-	font-family:bubble;
-   	 margin:20px; 
+}
+div {
+	font-family:bubble; 
 	color:#140223;
 	font-size: 82px;
 }
@@ -65,11 +64,7 @@ color:#ff0000;
     text-align: left;		
     padding: 8px;		
 
-	 div {
-	font-family: bubble;
-   	
-
-}
+	 
 
 
 
