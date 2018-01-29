@@ -8,7 +8,7 @@ float: left;
     src: url(bubble.ttf);
 }
 div {
-	font-family:bubble; 
+	font-family: "bubble"; 
 	color:#140223;
 	font-size: 82px;
 }
