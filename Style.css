@@ -7,10 +7,9 @@ float: left;
     font-family: bubble;
     src: url(AzzurBubblegum.ttf);
 }
-div {
+h2 {
 	font-family: bubble; 
-	color:#140223;
-	font-size: 82px;
+	
 }
 body  {
     background-image: url("spots_background_light_blur_68629_1920x1080.jpg");
