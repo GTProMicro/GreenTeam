@@ -1,7 +1,4 @@
-img {  height: 158px;
-width:175px;
-float: left;
-}
+img {  height: 158px; width:175px; float: left; }
 
 @font-face { ont-family: bubble;   src: url(AzzurBubblegum.ttf); }
  
