@@ -5,7 +5,7 @@ float: left;
 }
  @font-face {
     font-family: bubble;
-    src: url(bubble.ttf);
+    src: url(AzzurBubblegum.ttf);
 }
 div {
 	font-family: bubble; 
