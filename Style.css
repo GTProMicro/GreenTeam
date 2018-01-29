@@ -4,7 +4,7 @@ float: left;
 }
 }
  @font-face {
-    font-family: 'bubble';
+    font-family: bubble;
     src: url(AzzurBubblegum.ttf);
 }
 div {
