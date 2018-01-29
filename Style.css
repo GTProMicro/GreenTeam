@@ -1,6 +1,6 @@
 img {  height: 158px; width:175px; float: left; }
 
-@font-face { font-family: bubble;   src: url(AzzurBubblegum.ttf); }
+@font-face { font-family: bubble;   src: url(bubble.ttf); }
  
 h2 { font-family: bubble; }
 
